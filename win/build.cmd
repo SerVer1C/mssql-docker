@@ -1,0 +1,1 @@
+docker build --memory 4g --tag=microsoft/mssql-server-windows-developer-2019:latest .

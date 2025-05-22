@@ -1,0 +1,12 @@
+[
+  {
+  	'dbName': 'MainDB',
+  	'dbFiles': ['C:\\temp\\main.mdf',
+  	'C:\\temp\\main_log.ldf']
+  },
+  {
+  	'dbName': 'OtherDB',
+  	'dbFiles': ['C:\\temp\\other.mdf',
+  	'C:\\temp\\other_log.ldf']
+  }
+]
